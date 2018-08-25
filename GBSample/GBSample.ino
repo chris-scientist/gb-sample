@@ -9,9 +9,6 @@
 #include "CharacterView.h"
 
 CharacterController *mainController;
-// position du personnage
-int xCharacter;
-int yCharacter;
 
 void setup() {
   // initialiser la gambuino
